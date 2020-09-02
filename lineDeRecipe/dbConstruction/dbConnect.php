@@ -1,8 +1,8 @@
 <?php
 // 定数の定義・変数への代入
-const PDO_DSN = 'mysql:host=localhost;dbname=[DB name];charset=utf8mb4';
-const USERNAME = '[UN]';
-const PASSWORD = '[PW]';
+const PDO_DSN = 'mysql:host=localhost;dbname=procir_chinen339;charset=utf8mb4';
+const USERNAME = 'chinen339';
+const PASSWORD = '3ixaycaw3j';
 
 // DB接続
 try {
